@@ -1,0 +1,25 @@
+{
+  "name": "crafty_things",
+  "version": "1.0.0",
+  "description": "craft theme master",
+  "main": "index.js",
+  "scripts": {
+    "test": "master craft master"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/6Quadrants/crafty_things.git"
+  },
+  "keywords": [
+    "craft"
+  ],
+  "author": "6Quadrants",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/6Quadrants/crafty_things/issues"
+  },
+  "homepage": "https://github.com/6Quadrants/crafty_things#readme",
+  "dependencies": {
+    "composer": "^3.0.1"
+  }
+}
